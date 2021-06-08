@@ -57,5 +57,7 @@
        return cy.get('#button2')
     }
 
-
+    MyPerfectFunction() {
+       return ;
+    }
    }
